@@ -1,0 +1,4 @@
+É necessário instalar alguns módulos, como statsmodels, scipy, numpy.
+Atenção especial para a versão do scipy:
+
+sudo -H python3 -m pip install scipy==1.2 --upgrade
