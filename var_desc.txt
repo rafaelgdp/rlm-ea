@@ -1,0 +1,11 @@
+COMP_P: Number of Companies: Education - 2016
+Pr_Agencies: Total number of private bank agencies - 2019-02
+COMP_M: Number of Companies: Professional, scientific and technical activities - 2016
+Cars: Number of Companies: Other service activities - 2016
+COMP_N: Number of Companies: Administrative activities and complementary services - 2016
+COMP_I: Number of Companies: Accommodation and food - 2016 - source
+COMP_Q: Number of Companies: Human health and social services - 2016
+COMP_S: Number of Companies: Other service activities - 2016
+COMP_L: Number of Companies: Real estate activities - 2016 - source
+MAC: Total number of Mac Donalds stores - 2018-11
+
